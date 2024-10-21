@@ -8,7 +8,7 @@ Um Projeto do curso "XP Inc. - Full Stack Developer" da DIO, que teve o desafio 
 -  ``Calculadora``
 
 ### Acesso ao projeto: 
-- Você pode acessar o projeto final clicando aqui: 
+- Você pode acessar o projeto final clicando aqui: https://heloisazen.github.io/trilha-react-desafio01-calculadora/
 
 ### Tecnologias utilizadas:
 
