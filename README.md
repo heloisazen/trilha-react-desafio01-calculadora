@@ -1,3 +1,25 @@
+# Calculadora em React
+
+## Descrição do projeto:
+Um Projeto do curso "XP Inc. - Full Stack Developer" da DIO, que teve o desafio de codificar as funções de uma calculadora e fazer sua estilização.
+
+### Funcionalidades do projeto:
+
+-  ``Calculadora``
+
+### Acesso ao projeto: 
+- Você pode acessar o projeto final clicando aqui: 
+
+### Tecnologias utilizadas:
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Extensões utilizadas:
+
+- ``styled-components``
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
