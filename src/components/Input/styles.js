@@ -2,27 +2,27 @@ import styled from 'styled-components';
 
 export const InputContainer = styled.div`
     width: 100%;
-    height: 75px;
-    background-color: #AAAAFF;
+    height: 80px;
+    background-color: #AA95D0;
 
     display: flex;
     align-items: center;
     justify-content: flex-end;
 
-    font-size: 24px;
+    font-size: 30px;
     font-family: 'Roboto';
     
 
     input {
         width: 100%;
         height: 75px;
-        background-color: #AAAAFF;
+        background-color: #AA95D0;
         border: 0;
         display: flex;
         flex-direction: column;
         align-items: flex-end;
         padding: 0 10px;
-        font-size: 24px;
+        font-size: 30px;
         font-family: 'Roboto';
         color: #FFFFFF;
     }
