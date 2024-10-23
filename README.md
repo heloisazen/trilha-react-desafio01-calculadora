@@ -1,4 +1,4 @@
-# Calculadora em React
+# Calculadora em React.js
 
 ## Descrição do projeto:
 Um Projeto do curso "XP Inc. - Full Stack Developer" da DIO, que teve o desafio de codificar as funções de uma calculadora e fazer sua estilização.
